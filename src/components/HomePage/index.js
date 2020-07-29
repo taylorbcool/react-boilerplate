@@ -7,6 +7,7 @@ const HomePage = () => {
     <Wrapper>
       <h1>Hello, world!</h1>
       <Linkton to="/counter">Redux Counter</Linkton>
+      <Linkton to="/selector">Redux Selector</Linkton>
     </Wrapper>
   );
 };
